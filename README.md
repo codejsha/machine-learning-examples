@@ -10,6 +10,7 @@ This is examples of machine learning study.
 
 - Make Moons Classification
 - Make Circles Classification
+- Make Blobs Classification
 - Iris Flower Classification
 - Breast Cancer Wisconsin (Diagnostic) Classification
 
