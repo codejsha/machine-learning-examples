@@ -8,14 +8,17 @@ This is examples of machine learning study.
 
 ### Classification
 
+- Make Moons Classification
+- Make Circles Classification
 - Iris Flower Classification
 - Breast Cancer Wisconsin (Diagnostic) Classification
 
 ### Regression
 
 - Boston Housing Price Regression
-- Boston Housing Price Regression (mglearn)
-- California Housing Price Regression
+    - Boston Housing Price Regression (sklearn)
+    - Boston Housing Price Regression (mglearn)
+    - California Housing Price Regression
 
 ## References
 
