@@ -21,6 +21,10 @@ This is examples of machine learning study.
     - Boston Housing Price Regression (mglearn)
     - California Housing Price Regression
 
+### Clustering
+
+- Make Blobs Clustering
+
 ## References
 
 - Introduction to Machine Learning with Python by Andreas Mueller and Sarah Guido
