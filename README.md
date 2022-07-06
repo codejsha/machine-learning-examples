@@ -29,6 +29,3 @@ This is examples of machine learning study.
 
 - Introduction to Machine Learning with Python by Andreas Mueller and Sarah Guido
 - Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurelien Geron
-- 'Machine Learning for Beginners' Curriculum (https://github.com/microsoft/ML-For-Beginners)
-- 'Data Science for Beginners' Curriculum (https://github.com/microsoft/Data-Science-For-Beginners)
-- 'Artificial Intelligence for Beginners' Curriculum (https://github.com/microsoft/ai-for-beginners)
